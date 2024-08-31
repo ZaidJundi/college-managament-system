@@ -39,20 +39,6 @@ Don’t Forget To create a database and import sql file to run.
 
 
 
-
-admin login-
-email-lucky@admin.com
-password-123
-
-co-admin login-
-email-lucky@admin.com
-password-123
-
-
-
-
-
-
 ## Features
 List of features ready and TODOs for future development
 * REgistration page for admin of college.
